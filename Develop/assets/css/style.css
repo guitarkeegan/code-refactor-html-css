@@ -7,6 +7,15 @@
 body {
     background-color: #d9dcd6;
 }
+/* moved elements to be before classes */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 
 .header {
     padding: 20px;
@@ -39,15 +48,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
