@@ -7,10 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-/* moved elements to be before classes */
+
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.6;
 }
 
 p {
@@ -50,6 +54,17 @@ header div ul li {
     margin-left: 25px;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/* moved elements to be before classes */
 .hero {
     height: 800px;
     width: 100%;
@@ -118,16 +133,4 @@ header div ul li {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }
