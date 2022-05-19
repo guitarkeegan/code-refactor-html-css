@@ -20,7 +20,7 @@ a:hover {
 p {
     font-size: 16px;
 }
-
+/* header formatting start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,7 +53,9 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* header formatting end */
 
+/* footer formatting start */
 footer {
     padding: 30px;
     clear: both;
@@ -64,7 +66,10 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/* moved elements to be before classes */
+
+/* footer formatting end */
+
+/* formatting for hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -89,7 +94,7 @@ footer h2 {
     display: inline-block;
     margin-left: 20px;
 }
-/* consolidate to one line */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -98,11 +103,11 @@ footer h2 {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* consolidate to one line */
+
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-/* consolidate to one line */
+
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -118,17 +123,17 @@ footer h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* consolidate to one line */
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* consolidate to one line */
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* consolidate to one line */
+
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
