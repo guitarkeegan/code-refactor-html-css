@@ -42,4 +42,4 @@ Keegan Anglim
 
 ## Preview
 
-![Horiseon](./HoriseonOptimizationManagementMarketing.gif)
+![Horiseon](./website.gif)
