@@ -66,7 +66,6 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-
 /* footer formatting end */
 
 /* formatting for hero section */
@@ -78,7 +77,9 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
+/* hero section end */
 
+/* content section start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -112,7 +113,9 @@ footer h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* content section end */
 
+/* benefits section start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -139,3 +142,4 @@ footer h2 {
     margin: 10px auto;
     max-width: 150px;
 }
+/* benefits section end */
