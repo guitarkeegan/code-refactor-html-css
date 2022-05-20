@@ -8,6 +8,10 @@ HTML and CSS files that needed to be refactored made more accessible.
 
 ## Getting Started
 
+### Link to Live Website
+
+[Horiseon Refactor](https://guitarkeegan.github.io/horiseon-refactor-html-css/)
+
 ### Dependencies
 
 * Any browser
@@ -36,11 +40,6 @@ Keegan Anglim
 * 0.1
     * Initial Release
 
-## License
+## Preview
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
-
-## Screenshots
-
-
-
+![Horiseon](./HoriseonOptimizationManagementMarketing.gif)
